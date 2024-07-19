@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatikaIfElse/1.0.0": {
+        "runtime": {
+          "PatikaIfElse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaIfElse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\bin\Debug\net8.0\PatikaIfElse.exe
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\bin\Debug\net8.0\PatikaIfElse.deps.json
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\bin\Debug\net8.0\PatikaIfElse.runtimeconfig.json
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\bin\Debug\net8.0\PatikaIfElse.dll
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\bin\Debug\net8.0\PatikaIfElse.pdb
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.AssemblyInfoInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.AssemblyInfo.cs
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.dll
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\refint\PatikaIfElse.dll
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.pdb
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\PatikaIfElse.genruntimeconfig.cache
+C:\Users\EZGİ\Source\Repos\PatikaIfElse\PatikaIfElse\obj\Debug\net8.0\ref\PatikaIfElse.dll
